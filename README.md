@@ -1,4 +1,4 @@
-# Digital business card built with react
+# Travel Journal built with react
 
 Static web page built with HTML, CSS and ReactJS
 
